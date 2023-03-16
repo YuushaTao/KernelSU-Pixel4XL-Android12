@@ -5,3 +5,5 @@ Android version:12
 Kernel version:4.14.234_KernelSU-g77056a710073
 
 Android Build number:sp1a.210812.015
+
+注意不要登录谷歌账号,否则GooglePlay系统更新自动更新到最新frida一样会有兼容问题
