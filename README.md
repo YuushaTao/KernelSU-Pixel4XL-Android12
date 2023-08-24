@@ -45,7 +45,9 @@ function fridaInlineHookCheckPass() {
 **System Info:**
 
 Android version:12 
+
 Download Google ROM: https://developers.google.com/android/images?hl=zh-cn#coral
+
 Android Build number:sp1a.210812.015
 
 **USE:**
