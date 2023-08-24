@@ -51,4 +51,5 @@ Android Build number:sp1a.210812.015
 **USE:**
 
 adb reboot bootloader
+
 fastboot flash boot boot.img 
