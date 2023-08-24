@@ -39,10 +39,15 @@ function fridaInlineHookCheckPass() {
     //check new function head code
     console.log(myhexdump(Memory.readByteArray(PrettyMethod, 0x20)));
 }
-```javascript
+```
+
+**System Info:**
 
 Android version:12 
 Download Google ROM: https://developers.google.com/android/images?hl=zh-cn#coral
 Android Build number:sp1a.210812.015
+
+**USE:**
+
 adb reboot bootloader
 fastboot flash boot boot.img 
