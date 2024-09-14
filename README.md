@@ -6,15 +6,6 @@
 
 我还提供了我编译的frida-server,配合我的frida-server以及下面这个frida脚本可以过一些检查。
 
-
-**English:**
-
-I searched the entire web and only found a version of kernelsu for Android 13. Android 13 is not very compatible with Frida, so I had to compile a version for Android 12 myself, modifying the anti-debugging checkpoints, and updating randomly as the situation dictates.
-
-Be careful not to log in to your Google account, or the Google Play system will automatically update to the latest Frida, and compatibility issues may arise.
-
-I have also provided the frida-server I compiled. Along with my frida-server and the following Frida script, most checks can be bypassed.
-
 **Frida Script:**
 ```javascript
 //PrettyMethod check
